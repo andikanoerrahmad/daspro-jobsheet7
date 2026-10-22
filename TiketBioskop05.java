@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class TiketBioskop05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        final int HARGA_TIKET = 50000;
         int jumlah;
         int harga_Tiket = 5000;
         int diskon;
