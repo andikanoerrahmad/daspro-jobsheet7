@@ -10,7 +10,6 @@ public class TiketBioskop05 {
         int total_Harga;
         int total_Diskon;
 
-
         do {
             System.out.print("Masukkan jumlah tiket (0 untuk selesai) : ");
             jumlah = sc.nextInt();
