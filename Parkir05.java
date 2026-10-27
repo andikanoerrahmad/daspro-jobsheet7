@@ -23,8 +23,7 @@ public class Parkir05 {
                 total += jam * 2000;
             }
         }
-
-        
+   
         System.out.println("Total parkir: Rp" + total);
         sc.close();
     }
