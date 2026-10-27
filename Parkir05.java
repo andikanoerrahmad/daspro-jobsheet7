@@ -24,6 +24,7 @@ public class Parkir05 {
             }
         }
 
+        
         System.out.println("Total parkir: Rp" + total);
         sc.close();
     }
